@@ -1,4 +1,5 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
+Editor: Li Xuan
 
 # Scientific workflow GitHub workshop
 

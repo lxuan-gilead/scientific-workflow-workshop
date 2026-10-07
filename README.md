@@ -1,4 +1,5 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
+Editor: Workshop maintainer
 
 # Scientific workflow GitHub workshop
 
